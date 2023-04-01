@@ -1,0 +1,18 @@
+{
+    "cloudID": "65_MLG8uEB-8x35BAwRj6pAwdMAOl7OR21Dn617QgVDG66UZ27pT6BGgIL003I",
+    "encryptedData": "FeWljO68/CLSmjP8K1OiYqQvoO1Xxw0PiNTDneMAMjNJO+INsVfbbvOinhqtx27QcErPfFmtQ1wa/I6gPOzVO0C4f4X8oJPor1nj4XB7GkAIOkguZAzoE0B8T3HOq3zS08sE5Wx1HFVokXKJSL4BLAzOSeAonVCK5uC9AU2A8hllwYBpPArTQFBLED0gw1Y0IpdHPRSLvJwh13nq/tBzCmjufjkEOq/FCv2QYE0dAHJ0hmXliSRLgsNL8UFJbyD5gHDEW0wjTieORucYdqrmRI5ZFZ6aoRurosaTzRBXC+1OmBSrSRDHOkyrecN2+c7N2tihzHWIANyDySs0azZxMTu6RKjwT/SjaG8iwiLec2ht6TH7YbpyO6164orG/MmG8xU3quEe2PSDgSmjPuAT4WeBe3bbTJMWWOY5KW74/ViYB4pTB2UdhnKv0U0sCYHCKK/qeqsIm8P6U1QnPVzHrF4x3z37koFLkdee5wzI5PmJb0ochFyS1B6s6RQafREz5AKVMQuB0e0S1cbihIzNrw==",
+    "iv": "H7VXLGvL2/zo/IMX126ziA==",
+    "signature": "0ca2689fab11679e90da220daebbab53bf4cfc4b",
+    "userInfo": {
+        "openid": "",
+        "nickName": "微信用户",
+        "gender": 0,
+        "language": "",
+        "city": "",
+        "province": "",
+        "country": "",
+        "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/POgEwh4mIHO4nibH0KlMECNjjGxQUq24ZEaGT4poC6icRiccVGKSyXwibcPq4BWmiaIGuG1icwxaQX6grC9VemZoJ8rg/132"
+    },
+    "rawData": "{\"nickName\":\"微信用户\",\"gender\":0,\"language\":\"\",\"city\":\"\",\"province\":\"\",\"country\":\"\",\"avatarUrl\":\"https://thirdwx.qlogo.cn/mmopen/vi_32/POgEwh4mIHO4nibH0KlMECNjjGxQUq24ZEaGT4poC6icRiccVGKSyXwibcPq4BWmiaIGuG1icwxaQX6grC9VemZoJ8rg/132\"}",
+    "errMsg": "getUserInfo:ok"
+}
